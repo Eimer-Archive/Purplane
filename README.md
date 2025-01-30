@@ -1,3 +1,6 @@
+# Forked for archival reasons
+Original README below
+
 # DISCONTINUED! Purpur has merged all of Airplanes patches. Just use Purpur.
 
 # Purplane
